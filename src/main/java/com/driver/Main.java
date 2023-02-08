@@ -6,8 +6,8 @@ public class Main {
         RWOnly obj=new RWOnly();
         //obj.x=1;
         //System.out.println(obj.x);
-        obj.setter(5);
-        obj.getter();
+        obj.setName("aman");
+        obj.getName();
     }
   
 }
